@@ -32,8 +32,10 @@ public class PracticaEntornos {
                 System.out.print(" ");
             }
             
-            for (int asteriscos = 1; asteriscos <= (i * 2) - 1; asteriscos++) {
-                System.out.print("*");
+            for (int numero = 1; numero <= (i * 2) - 1; numero++) {
+                
+                System.out.print("+");
+                
             }
             System.out.println();
         }
